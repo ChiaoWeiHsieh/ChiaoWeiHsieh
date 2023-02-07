@@ -1,8 +1,5 @@
 <h2 align="center">Hello 👋, I'm Chiao-Wei</h2>
 
-### 📫 Reach Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiao-wei-hsieh-a8710b223/)
-
 ### 🖥️ Languages and Tools
 ![Python](https://img.shields.io/badge/-python-1c3c5f?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-2e8e99?style=for-the-badge&logo=MySQL&logoColor=white)
